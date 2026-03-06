@@ -1,0 +1,20 @@
+body {
+    font-family: Century Gothic, sans-serif;
+}
+
+.address p,
+.education p,
+.experience p,
+.socmed p {
+    margin: 0;
+}
+
+h2 {
+    color: rgb(0, 204, 255);
+    
+}
+
+h2:hover {
+    transition: 0.3s;
+    text-shadow: -2px 1px 1px  black;
+}
